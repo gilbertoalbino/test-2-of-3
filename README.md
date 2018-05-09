@@ -12,6 +12,9 @@ I hope the evaluator take into consideration that PHP has matured and it can not
 
 ## Installing
 
+
+Clone this Repository.
+
 To install the testing environment it is recommended that you have docker installed in order to get the most out of it.
 
 
